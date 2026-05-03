@@ -8,9 +8,9 @@
 ### 2. Hệ thống cảnh báo & Log
 
 - **Cảnh báo Console:** Khi phát hiện tấn công, hệ thống in dòng `[ALERT] Attack: [Loại tấn công]`.
-  ![Cảnh báo Console](Console.png)
+  ![Cảnh báo Console](images/Console.png)
 - **File Log:** Tất cả cảnh báo được lưu tự động vào file `alerts.log` kèm mốc thời gian để quản trị viên theo dõi.
-  ![Lịch sử file log](alerts_log.png)
+  ![Lịch sử file log](images/alerts_log.png)
 
 ### 3. Bảng so sánh kết quả các Model
 
